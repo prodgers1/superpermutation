@@ -1,1 +1,4 @@
-my cool updated text
+{
+"phrase1": "hi my name is",
+"phrase2": "hello my name is" 
+}
