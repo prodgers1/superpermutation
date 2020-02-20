@@ -3,5 +3,6 @@
   "phrase2": "yo my name is",
   "phrase3": "uploaded 3 from Lambda",
   "phrase4": "uploaded 4 from Lambda",
-  "phrase5": "uploaded 5 from Lambda"
+  "phrase5": "uploaded 5 from Lambda",
+  "phrase6": "uploaded 6 from Lambda"
 }
