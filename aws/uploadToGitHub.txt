@@ -7,5 +7,6 @@
   "phrase6": "uploaded 6 from Lambda",
   "phrase7": "uploaded 7 from Lambda",
   "phrase8": "uploaded 8 from Lambda",
-  "phrase9": "uploaded 9 from Lambda"
+  "phrase9": "uploaded 9 from Lambda",
+  "phrase10": "uploaded 10 from Lambda"
 }
