@@ -31,4 +31,5 @@
   <File HoPath="aws/test30/en-US.json" HbPath="aws/test30/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
   <File HoPath="aws/test31/en-US.json" HbPath="aws/test31/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
   <File HoPath="aws/test32/en-US.json" HbPath="aws/test32/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
+  <File HoPath="aws/test33/en-US.json" HbPath="aws/test33/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
 </Translation>
