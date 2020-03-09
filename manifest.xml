@@ -1,37 +1,3 @@
 <Translation>
-  <File HoPath="aws/test/en-US.json" HbPath="aws/test/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test2/en-US.json" HbPath="aws/test2/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test3/en-US.json" HbPath="aws/test3/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test4/en-US.json" HbPath="aws/test4/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test5/en-US.json" HbPath="aws/test5/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test6/en-US.json" HbPath="aws/test6/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test7/en-US.json" HbPath="aws/test7/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test8/en-US.json" HbPath="aws/test8/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test9/en-US.json" HbPath="aws/test9/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test10/en-US.json" HbPath="aws/test10/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test11/en-US.json" HbPath="aws/test11/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test12/en-US.json" HbPath="aws/test12/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test13/en-US.json" HbPath="aws/test13/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test14/en-US.json" HbPath="aws/test14/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test15/en-US.json" HbPath="aws/test15/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test16/en-US.json" HbPath="aws/test16/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test17/en-US.json" HbPath="aws/test17/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test18/en-US.json" HbPath="aws/test18/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test19/en-US.json" HbPath="aws/test19/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test20/en-US.json" HbPath="aws/test20/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test21/en-US.json" HbPath="aws/test21/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test22/en-US.json" HbPath="aws/test22/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test23/en-US.json" HbPath="aws/test23/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test24/en-US.json" HbPath="aws/test24/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test25/en-US.json" HbPath="aws/test25/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test26/en-US.json" HbPath="aws/test26/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test27/en-US.json" HbPath="aws/test27/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test28/en-US.json" HbPath="aws/test28/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test29/en-US.json" HbPath="aws/test29/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test30/en-US.json" HbPath="aws/test30/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test31/en-US.json" HbPath="aws/test31/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test32/en-US.json" HbPath="aws/test32/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="aws/test33/en-US.json" HbPath="aws/test33/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
   <File HoPath="aws/test34/en-US.json" HbPath="aws/test34/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="1/index.json" HbPath="1/{Culture}.json" Cultures="fr-FR, de-DE, es-ES, qa-PS" />
 </Translation>
