@@ -1,4 +1,3 @@
 <Translation>
-  <File HoPath="aws/test34/en-US.json" HbPath="aws/test34/{Culture}.json" Cultures="de-DE, it-IT, qa-PS" />
-  <File HoPath="1/index.json" HbPath="1/{Culture}.json" Cultures="fr-FR, de-DE, es-ES, qa-PS, qa-AR" />
+
 </Translation>
