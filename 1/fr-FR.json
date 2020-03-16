@@ -1,0 +1,12 @@
+{
+  "MyFirstTest": {
+    "authoredContent": "Bonjour le monde!",
+    "authoredContentVersion": 1,
+    "contentNote": ""
+  },
+  "MySecondTest": {
+    "authoredContent": "Bonjour encore le monde!",
+    "authoredContentVersion": 1,
+    "contentNote": ""
+  }
+}
